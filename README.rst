@@ -3,6 +3,10 @@ dj-pq
 
 `pq <https://github.com/malthe/pq>`_ wrapper for django.
 
+.. image:: https://travis-ci.org/jeanphix/dj-pq.svg?branch=master
+    :target: https://travis-ci.org/jeanphix/dj-pq
+
+
 Installation
 ------------
 
