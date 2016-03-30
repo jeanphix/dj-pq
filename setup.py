@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dj-pq',
-    version='1.4',
+    version='1.4.2',
     license='BSD License',
     author='jean-philippe serafin',
     url='https://github.com/jeanphix/dj-pq/',
